@@ -49,3 +49,13 @@ Esse curso ensina um pouco da história do Git e como ele se tornou essencial pa
 URL do Curso: https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github
 
 Instituição: [Digital Innovation One](https://digitalinnovation.one/)
+
+#### - Fundamentos de Programação: Bancos de Dados
+
+Este curso fornece os básicos necessários para você começar a criar e usar bancos de dados. Explore a terminologia: formas normais, ACID, CRUD, integridade referencial, transações, registros e tabelas. Aprenda o papel das chaves primárias e valores exclusivos em um modelo relacional. 
+
+![](certificados/fundamentos-banco-de-dados.png)
+
+URL do Curso: https://www.linkedin.com/learning/fundamentos-de-programacao-bancos-de-dados
+
+Instituição: [Linkedin Learning](https://www.linkedin.com/learning)
