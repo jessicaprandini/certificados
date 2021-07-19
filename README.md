@@ -59,3 +59,13 @@ Este curso fornece os básicos necessários para você começar a criar e usar b
 URL do Curso: https://www.linkedin.com/learning/fundamentos-de-programacao-bancos-de-dados
 
 Instituição: [Linkedin Learning](https://www.linkedin.com/learning)
+
+#### - Descubra o SQL
+
+Este curso fornece os conceitos básicos necessários para que você saiba como buscar, ordenar, agrupar, classificar, alterar, deletar e incluir dados no seu banco de dados. A meta, portanto, é que compreenda a linguagem SQL e não apenas decore os comandos mais conhecidos como o SELECT, INSERT, DELETE, UPDATE!
+
+![](certificados/descubra-sql.png)
+
+URL do Curso: https://www.linkedin.com/learning/descubra-o-sql/boas-vindas-ao-curso-descubra-o-sql
+
+Instituição: [Linkedin Learning](https://www.linkedin.com/learning)
