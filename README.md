@@ -27,6 +27,7 @@ URL do Curso: https://www.programaria.org/curso-online-euprogramo/
 
 Instituição: [Programaria](https://www.programaria.org)
 
+
 ###  Julho 2021
 
 #### - Lógica de programação essencial
@@ -36,7 +37,6 @@ Lógica de programação é a forma como o desenvolvedor entende a comunicação
 ![](certificados/logica-programacao-dio.png)
 
 URL do Curso: https://web.digitalinnovation.one/course/logica-de-programacao-essencial-1
-
 
 Instituição: [Digital Innovation One](https://digitalinnovation.one/)
 
@@ -69,3 +69,20 @@ Este curso fornece os conceitos básicos necessários para que você saiba como 
 URL do Curso: https://www.linkedin.com/learning/descubra-o-sql/boas-vindas-ao-curso-descubra-o-sql
 
 Instituição: [Linkedin Learning](https://www.linkedin.com/learning)
+
+
+###  Agosto 2021
+
+#### - Lógica de programação I: Os primeiros programas com Javascript e HTML
+
+Curso de Lógica de programação:
+Dê seus primeiros passos de maneira prática!
+Inicie na programação com JavaScript no seu Navegador
+Entenda variáveis e seu uso
+Repita tarefas com laços, loops, fors e whiles.
+
+![](certificados/certificado-alura.png)
+
+URL do Curso: https://cursos.alura.com.br/course/logica-programacao-javascript-html
+
+Instituição: [Alura](https://www.alura.com.br/)
