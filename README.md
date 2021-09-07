@@ -86,3 +86,13 @@ Repita tarefas com laços, loops, fors e whiles.
 URL do Curso: https://cursos.alura.com.br/course/logica-programacao-javascript-html
 
 Instituição: [Alura](https://www.alura.com.br/)
+
+#### - Jornada para o Futuro 
+
+O Jornada para o Futuro é um programa gratuito que integra universitários e empresas, apoiando o desenvolvimento das soft skills mais valorizadas pelo mercado de trabalho, para que estejam mais bem preparados e também façam escolhas profissionais mais conscientes.
+
+![](certificados/certificado-jornada.png)
+
+URL do Curso: https://jornadaparaofuturo.com.br/
+
+Instituição: [Cia de talentos](https://www.ciadetalentos.com.br/)
